@@ -10,12 +10,12 @@ Neural networks consist of simple input/output units called neurons. These units
 
 Regression helps in establishing a relationship between a dependent variable and one or more independent variables. Regression models work well only when the regression equation is a good fit for the data. Although neural networks are complex and computationally expensive, they are flexible and can dynamically pick the best type of regression, and if that is not enough, hidden layers can be added to improve prediction.
 
-Build your training and test set from the dataset, here we are making the neural network 3 hidden layer with activation layer as relu and with their nodes in them. Now we will fit our dataset and then predict the value.
+Build your training and test set from the dataset, here we are making the neural network 2 hidden layer with activation layer as relu and with their nodes in them. Now we will fit our dataset and then predict the value.
 
 
 ## Neural Network Model :
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/a5f22604-ace9-4883-8cb2-2f31e459325f)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/55452805-e3e1-49ce-8353-4596daafd396)
 
 ## DESIGN STEPS :
 
