@@ -117,16 +117,16 @@ model.predict(X_n1_1 value)
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/65412fb0-8f65-484a-9831-146ff16f0d0a)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/2b673fa3-8798-46a9-96e5-a909ee93b891)
 
 
 ### Test Data Root Mean Squared Error :
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/a9d13dcc-252a-4adb-8339-919b0205c507)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/43e38082-b4c1-4e4c-b48a-003e3e86a077)
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/5a2594f4-5949-4a56-b851-c048ce2cd3b3)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/be42d87e-ede4-4077-848e-03f61e176a12)
 
 
 ## RESULT :
