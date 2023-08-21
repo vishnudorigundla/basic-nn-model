@@ -99,7 +99,6 @@ loss_df.plot()
 ```
 X_test1 = Scaler.transform(X_test)
 model.evaluate(X_test1,y_test)
-model.evaluate(X_test1,y_test)
 ```
 ### Prediction for a value :
 ```
@@ -111,24 +110,23 @@ model.predict(X_n1_1 value)
 
 ## Dataset Information :
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/95480c13-bcb3-45bf-a130-418ad71cae82)
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/35eb7809-26fe-4107-a111-f61c7cbf66c0)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/1d023f8c-2198-4abc-9c59-d978eed0f0dd)
 
 
 ## OUTPUT :
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/a4e61011-0392-4865-bf8f-1aa8baf93cc6)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/65412fb0-8f65-484a-9831-146ff16f0d0a)
 
 
 ### Test Data Root Mean Squared Error :
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/91940c5d-f88f-4e97-ac3f-2f993fd3c3b0)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/a9d13dcc-252a-4adb-8339-919b0205c507)
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/7927fc6a-0ed5-451d-a210-09112af6795f)
+![image](https://github.com/vishnudorigundla/basic-nn-model/assets/94175324/5a2594f4-5949-4a56-b851-c048ce2cd3b3)
 
 
 ## RESULT :
